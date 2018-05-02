@@ -1,0 +1,1623 @@
+do sim.do
+# total 108
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni    10 May  2 17:09 transcript
+# total 108
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni   593 May  2 17:09 transcript
+# total 108
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1176 May  2 17:09 transcript
+# total 108
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1759 May  2 17:09 transcript
+# total 108
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  2342 May  2 17:09 transcript
+# total 108
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  2925 May  2 17:09 transcript
+# total 108
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  3508 May  2 17:09 transcript
+# total 108
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4091 May  2 17:09 transcript
+# total 112
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4674 May  2 17:09 transcript
+# total 112
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  5257 May  2 17:09 transcript
+# total 112
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  5840 May  2 17:09 transcript
+# total 112
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  6423 May  2 17:09 transcript
+# total 112
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  7006 May  2 17:09 transcript
+# total 112
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  7589 May  2 17:09 transcript
+# total 112
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  8172 May  2 17:09 transcript
+# total 116
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  8755 May  2 17:09 transcript
+# total 116
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9338 May  2 17:09 transcript
+# total 116
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9921 May  2 17:09 transcript
+# total 116
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10504 May  2 17:09 transcript
+# total 116
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 11087 May  2 17:09 transcript
+# total 116
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 11670 May  2 17:09 transcript
+# total 116
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12253 May  2 17:09 transcript
+# total 120
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12836 May  2 17:09 transcript
+# total 120
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 13419 May  2 17:09 transcript
+# total 120
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 14002 May  2 17:09 transcript
+# total 120
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 14585 May  2 17:09 transcript
+# total 120
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 15168 May  2 17:09 transcript
+# total 120
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 15751 May  2 17:09 transcript
+# total 120
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 16334 May  2 17:09 transcript
+# total 124
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 16917 May  2 17:09 transcript
+# total 124
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 17500 May  2 17:09 transcript
+# total 124
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 18083 May  2 17:09 transcript
+# total 124
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 18666 May  2 17:09 transcript
+# total 124
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 19249 May  2 17:09 transcript
+# total 124
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 19832 May  2 17:09 transcript
+# total 124
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 20415 May  2 17:09 transcript
+# total 128
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 20998 May  2 17:09 transcript
+# total 128
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 21581 May  2 17:09 transcript
+# total 128
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 22164 May  2 17:09 transcript
+# total 128
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 22747 May  2 17:09 transcript
+# total 128
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 23330 May  2 17:09 transcript
+# total 128
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 23913 May  2 17:09 transcript
+# total 128
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 24496 May  2 17:09 transcript
+# total 132
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 25079 May  2 17:09 transcript
+# total 132
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 25662 May  2 17:09 transcript
+# total 132
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 26245 May  2 17:09 transcript
+# total 132
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 26828 May  2 17:09 transcript
+# total 132
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 27411 May  2 17:09 transcript
+# total 132
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 27994 May  2 17:09 transcript
+# total 132
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 28577 May  2 17:09 transcript
+# ** Error: Macro nesting level exceeds limit of 50 (infinite recursion?)
+# Error in macro ./sim.do line 13
+# Macro nesting level exceeds limit of 50 (infinite recursion?)
+#     while executing
+# "do sim.do"
+do sim.do
+# total 136
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 29378 May  2 17:09 transcript
+# total 136
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 29961 May  2 17:09 transcript
+# total 136
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 30544 May  2 17:09 transcript
+# total 136
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 31127 May  2 17:09 transcript
+# total 136
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 31710 May  2 17:09 transcript
+# total 136
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 32293 May  2 17:09 transcript
+# total 140
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 32876 May  2 17:09 transcript
+# total 140
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 33459 May  2 17:09 transcript
+# total 140
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 34042 May  2 17:09 transcript
+# total 140
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 34625 May  2 17:09 transcript
+# total 140
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 35208 May  2 17:09 transcript
+# total 140
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 35791 May  2 17:09 transcript
+# total 140
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 36374 May  2 17:09 transcript
+# total 144
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 36957 May  2 17:09 transcript
+# total 144
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 37540 May  2 17:09 transcript
+# total 144
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 38123 May  2 17:09 transcript
+# total 144
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 38706 May  2 17:09 transcript
+# total 144
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 39289 May  2 17:09 transcript
+# total 144
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 39872 May  2 17:09 transcript
+# total 144
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 40455 May  2 17:09 transcript
+# total 148
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 41038 May  2 17:09 transcript
+# total 148
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 41621 May  2 17:09 transcript
+# total 148
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 42204 May  2 17:09 transcript
+# total 148
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 42787 May  2 17:09 transcript
+# total 148
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 43370 May  2 17:09 transcript
+# total 148
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 43953 May  2 17:09 transcript
+# total 148
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 44536 May  2 17:09 transcript
+# total 152
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 45119 May  2 17:09 transcript
+# total 152
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 45702 May  2 17:09 transcript
+# total 152
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 46285 May  2 17:09 transcript
+# total 152
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 46868 May  2 17:09 transcript
+# total 152
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 47451 May  2 17:09 transcript
+# total 152
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 48034 May  2 17:09 transcript
+# total 152
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 48617 May  2 17:09 transcript
+# total 156
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49200 May  2 17:09 transcript
+# total 156
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49783 May  2 17:09 transcript
+# total 156
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 50366 May  2 17:09 transcript
+# total 156
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 50949 May  2 17:09 transcript
+# total 156
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 51532 May  2 17:09 transcript
+# total 156
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 52115 May  2 17:09 transcript
+# total 156
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 52698 May  2 17:09 transcript
+# total 160
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 53281 May  2 17:09 transcript
+# total 160
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 53864 May  2 17:09 transcript
+# total 160
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 54447 May  2 17:09 transcript
+# total 160
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 55030 May  2 17:09 transcript
+# total 160
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 55613 May  2 17:09 transcript
+# total 160
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 56196 May  2 17:09 transcript
+# total 160
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 56779 May  2 17:09 transcript
+# total 164
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 57362 May  2 17:09 transcript
+# total 164
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 57945 May  2 17:09 transcript
+# ** Error: Macro nesting level exceeds limit of 50 (infinite recursion?)
+# Error in macro ./sim.do line 13
+# Macro nesting level exceeds limit of 50 (infinite recursion?)
+#     while executing
+# "do sim.do"
+do sim.do
+# total 164
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 58746 May  2 17:09 transcript
+# total 164
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 59329 May  2 17:09 transcript
+# total 164
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 59912 May  2 17:09 transcript
+# total 164
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 60495 May  2 17:09 transcript
+# total 164
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 61078 May  2 17:09 transcript
+# total 168
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 61661 May  2 17:09 transcript
+# total 168
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 62244 May  2 17:09 transcript
+# total 168
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 62827 May  2 17:09 transcript
+# total 168
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 63410 May  2 17:09 transcript
+# total 168
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 63993 May  2 17:09 transcript
+# total 168
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 64576 May  2 17:09 transcript
+# total 168
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 65159 May  2 17:09 transcript
+# total 172
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 65742 May  2 17:09 transcript
+# total 172
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 66325 May  2 17:09 transcript
+# total 172
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 66908 May  2 17:09 transcript
+# total 172
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 67491 May  2 17:09 transcript
+# total 172
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 68074 May  2 17:09 transcript
+# total 172
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 68657 May  2 17:09 transcript
+# total 172
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 69240 May  2 17:09 transcript
+# total 176
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 69823 May  2 17:09 transcript
+# total 176
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 70406 May  2 17:09 transcript
+# total 176
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 70989 May  2 17:09 transcript
+# total 176
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 71572 May  2 17:09 transcript
+# total 176
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 72155 May  2 17:09 transcript
+# total 176
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 72738 May  2 17:09 transcript
+# total 176
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 73321 May  2 17:09 transcript
+# total 180
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 73904 May  2 17:09 transcript
+# total 180
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 74487 May  2 17:09 transcript
+# total 180
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 75070 May  2 17:09 transcript
+# total 180
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 75653 May  2 17:09 transcript
+# total 180
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 76236 May  2 17:09 transcript
+# total 180
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 76819 May  2 17:09 transcript
+# total 180
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 77402 May  2 17:09 transcript
+# total 184
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 77985 May  2 17:09 transcript
+# total 184
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 78568 May  2 17:09 transcript
+# total 184
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 79151 May  2 17:09 transcript
+# total 184
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 79734 May  2 17:09 transcript
+# total 184
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 80317 May  2 17:09 transcript
+# total 184
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 80900 May  2 17:09 transcript
+# total 184
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 81483 May  2 17:09 transcript
+# total 188
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 82066 May  2 17:09 transcript
+# total 188
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 82649 May  2 17:09 transcript
+# total 188
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 83232 May  2 17:09 transcript
+# total 188
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 83815 May  2 17:09 transcript
+# total 188
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 84398 May  2 17:09 transcript
+# total 188
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 84981 May  2 17:09 transcript
+# total 188
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 85564 May  2 17:09 transcript
+# total 192
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 86147 May  2 17:09 transcript
+# total 192
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 86730 May  2 17:09 transcript
+# total 192
+# -rw-rw-r-- 1 vipinsoni vipinsoni   244 May  2 15:21 Makefile
+# -rw-rw-r-- 1 vipinsoni vipinsoni  4594 May  2 15:24 top_tb.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni  1286 May  2 15:59 headers.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 10803 May  2 16:42 modelsim.ini
+# -rw-rw-r-- 1 vipinsoni vipinsoni 12793 May  2 17:07 top.vhd
+# -rw-rw-r-- 1 vipinsoni vipinsoni 49152 May  2 17:08 vsim.wlf
+# -rw-rw-r-- 1 vipinsoni vipinsoni  9478 May  2 17:08 sim.do
+# drwxrwxr-x 2 vipinsoni vipinsoni  4096 May  2 17:09 work
+# -rw-rw-r-- 1 vipinsoni vipinsoni 87313 May  2 17:09 transcript
+# ** Error: Macro nesting level exceeds limit of 50 (infinite recursion?)
+# Error in macro ./sim.do line 13
+# Macro nesting level exceeds limit of 50 (infinite recursion?)
+#     while executing
+# "do sim.do"
+edit sim.do
+
+
+vsim work.top_tb(arch)
+# vsim work.top_tb(arch) 
+# Start time: 17:10:17 on May 02,2018
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.headers
+# Loading work.top_tb(arch)
+# Loading work.top(arch)
+# ** Warning: (vsim-3473) Component instance "mult1 : fp_mult" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb/uut File: top.vhd
+# ** Warning: (vsim-3473) Component instance "mult2 : fp_mult" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb/uut File: top.vhd
+# ** Warning: (vsim-3473) Component instance "mult3 : fp_mult" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb/uut File: top.vhd
+# ** Warning: (vsim-3473) Component instance "mult4 : fp_mult" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb/uut File: top.vhd
+# ** Warning: (vsim-3473) Component instance "add1 : fp_add" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb/uut File: top.vhd
+# ** Warning: (vsim-3473) Component instance "add2 : fp_add" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb/uut File: top.vhd
+# ** Warning: (vsim-3473) Component instance "add3 : fp_add" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb/uut File: top.vhd
+add wave *
+# WARNING: No extended dataflow license exists
+edit sim.do
+add wave -position insertpoint  \
+sim:/top_tb/uut/mult1_reg1 \
+sim:/top_tb/uut/mult1_reg2 \
+sim:/top_tb/uut/mult2_reg1 \
+sim:/top_tb/uut/mult2_reg2 \
+sim:/top_tb/uut/mult3_reg1 \
+sim:/top_tb/uut/mult3_reg2 \
+sim:/top_tb/uut/mult4_reg1 \
+sim:/top_tb/uut/mult4_reg2 \
+sim:/top_tb/uut/mult1_out_add1_in \
+sim:/top_tb/uut/mult2_out_add1_in \
+sim:/top_tb/uut/mult3_out_add2_in \
+sim:/top_tb/uut/mult4_out_add2_in \
+sim:/top_tb/uut/add1_out_add3_in \
+sim:/top_tb/uut/add2_out_add3_in \
+sim:/top_tb/uut/add3_out
+run 10 us
+# ** Note: iowrite : address [1], writedata [1065353216]
+#    Time: 220 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [2], writedata [1073741824]
+#    Time: 340 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [3], writedata [1077936128]
+#    Time: 460 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [4], writedata [1082130432]
+#    Time: 580 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [5], writedata [1093664768]
+#    Time: 700 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [6], writedata [1094713344]
+#    Time: 820 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [7], writedata [1095761920]
+#    Time: 940 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [8], writedata [1096810496]
+#    Time: 1060 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [9], writedata [1101529088]
+#    Time: 1180 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [10], writedata [1102053376]
+#    Time: 1300 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [11], writedata [1102577664]
+#    Time: 1420 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [16], writedata [1103101952]
+#    Time: 1540 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [17], writedata [1106771968]
+#    Time: 1660 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [18], writedata [1107296256]
+#    Time: 1780 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [19], writedata [1107558400]
+#    Time: 1900 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [20], writedata [1107820544]
+#    Time: 2020 ns  Iteration: 1  Instance: /top_tb
+# ** Note: iowrite : address [0], writedata [1]
+#    Time: 2140 ns  Iteration: 1  Instance: /top_tb
+# ** Note: ioread : address [0], readdata [3]
+#    Time: 2301 ns  Iteration: 0  Instance: /top_tb
+# ** Note: ioread : address [0], readdata [3]
+#    Time: 2461 ns  Iteration: 0  Instance: /top_tb
+# ** Note: ioread : address [0], readdata [3]
+#    Time: 2621 ns  Iteration: 0  Instance: /top_tb
+# ** Note: ioread : address [0], readdata [3]
+#    Time: 2781 ns  Iteration: 0  Instance: /top_tb
+# ** Note: ioread : address [0], readdata [3]
+#    Time: 2941 ns  Iteration: 0  Instance: /top_tb
+# ** Note: ioread : address [0], readdata [3]
+#    Time: 3101 ns  Iteration: 0  Instance: /top_tb
+# ** Note: ioread : address [0], readdata [3]
+#    Time: 3261 ns  Iteration: 0  Instance: /top_tb
+# ** Note: ioread : address [0], readdata [3]
+#    Time: 3421 ns  Iteration: 0  Instance: /top_tb
+# ** Note: ioread : address [0], readdata [0]
+#    Time: 3581 ns  Iteration: 0  Instance: /top_tb
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3741 ns  Iteration: 0  Instance: /top_tb
+# ** Note: ioread : address [21], readdata [0]
+#    Time: 3741 ns  Iteration: 0  Instance: /top_tb
+# End time: 17:14:04 on May 02,2018, Elapsed time: 0:03:47
+# Errors: 0, Warnings: 9
