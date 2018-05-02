@@ -1,0 +1,29 @@
+
+State Machine - |design01|design01_nios2_gen2_0:nios2_gen2_0|design01_nios2_gen2_0_cpu:cpu|design01_nios2_gen2_0_cpu_nios2_oci:the_design01_nios2_gen2_0_cpu_nios2_oci|design01_nios2_gen2_0_cpu_debug_slave_wrapper:the_design01_nios2_gen2_0_cpu_debug_slave_wrapper|design01_nios2_gen2_0_cpu_debug_slave_tck:the_design01_nios2_gen2_0_cpu_debug_slave_tck|DRsize
+Name DRsize.101 DRsize.100 DRsize.011 DRsize.010 DRsize.001 DRsize.000 
+DRsize.000 0 0 0 0 0 0 
+DRsize.001 0 0 0 0 1 1 
+DRsize.010 0 0 0 1 0 1 
+DRsize.011 0 0 1 0 0 1 
+DRsize.100 0 1 0 0 0 1 
+DRsize.101 1 0 0 0 0 1 
+
+State Machine - |design01|top:my_new_component_0|state
+Name state.stFINISH state.stRESULT_OUT4 state.stRESULT_OUT3 state.stRESULT_OUT2 state.stRESULT_OUT1 state.stPROC_ROW4 state.stPROC_ROW3 state.stTEMP6 state.stTEMP5 state.stTEMP4 state.stTEMP3 state.stTEMP2 state.stTEMP1 state.stPROC_ROW2 state.stPROC_ROW1 state.stSTART state.stIDLE 
+state.stIDLE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+state.stSTART 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+state.stPROC_ROW1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+state.stPROC_ROW2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+state.stTEMP1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+state.stTEMP2 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+state.stTEMP3 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+state.stTEMP4 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+state.stTEMP5 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+state.stTEMP6 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+state.stPROC_ROW3 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+state.stPROC_ROW4 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+state.stRESULT_OUT1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+state.stRESULT_OUT2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.stRESULT_OUT3 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.stRESULT_OUT4 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.stFINISH 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
