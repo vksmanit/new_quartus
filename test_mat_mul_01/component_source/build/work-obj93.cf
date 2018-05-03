@@ -1,9 +1,0 @@
-v 3
-file "/home/vipinsoni/Desktop/MTP2/new_quartus/test_mat_mul_01/component_source/" "top_tb.vhd" "20180502095409.000" "20180502171410.445":
-  entity top_tb at 1( 0) + 0 on 14;
-  architecture arch of top_tb at 12( 146) + 0 on 15;
-file "/home/vipinsoni/Desktop/MTP2/new_quartus/test_mat_mul_01/component_source/" "headers.vhd" "20180502102940.000" "20180502171410.243":
-  package headers at 1( 0) + 0 on 11;
-file "/home/vipinsoni/Desktop/MTP2/new_quartus/test_mat_mul_01/component_source/" "top.vhd" "20180502113758.000" "20180502171410.284":
-  entity top at 1( 0) + 0 on 12;
-  architecture arch of top at 18( 390) + 0 on 13;

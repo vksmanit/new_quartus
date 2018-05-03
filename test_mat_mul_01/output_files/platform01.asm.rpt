@@ -1,5 +1,5 @@
 Assembler report for platform01
-Wed May  2 01:42:47 2018
+Fri May  4 00:05:25 2018
 Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
 
 
@@ -38,7 +38,7 @@ refer to the applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Wed May  2 01:42:47 2018 ;
+; Assembler Status      ; Successful - Fri May  4 00:05:25 2018 ;
 ; Revision Name         ; platform01                            ;
 ; Top-level Entity Name ; design01                              ;
 ; Family                ; Cyclone IV E                          ;
@@ -103,8 +103,8 @@ refer to the applicable agreement for further details.
 +----------------+-------------------------+
 ; Option         ; Setting                 ;
 +----------------+-------------------------+
-; JTAG usercode  ; 0x0052B1F1              ;
-; Checksum       ; 0x0052B1F1              ;
+; JTAG usercode  ; 0x005730A9              ;
+; Checksum       ; 0x005730A9              ;
 +----------------+-------------------------+
 
 
@@ -127,14 +127,14 @@ Info: Running Quartus Prime Assembler
     Info: the sole purpose of programming logic devices manufactured by
     Info: Intel and sold by Intel or its authorized distributors.  Please
     Info: refer to the applicable agreement for further details.
-    Info: Processing started: Wed May  2 01:42:44 2018
+    Info: Processing started: Fri May  4 00:05:22 2018
 Info: Command: quartus_asm --read_settings_files=on --write_settings_files=off platform01 -c platform01
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus Prime Assembler was successful. 0 errors, 1 warning
-    Info: Peak virtual memory: 835 megabytes
-    Info: Processing ended: Wed May  2 01:42:47 2018
+    Info: Peak virtual memory: 833 megabytes
+    Info: Processing ended: Fri May  4 00:05:25 2018
     Info: Elapsed time: 00:00:03
     Info: Total CPU time (on all processors): 00:00:03
 

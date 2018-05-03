@@ -181,71 +181,87 @@ begin
                         mult2_reg2 <= x2;
                         mult3_reg2 <= x3;
                         mult4_reg2 <= x4;
-								b1 <= add3_out;
-                        state <= stFINISH; -- stPROC_ROW2;
-             --      when stPROC_ROW2 => 
-             --          mult1_reg1 <= a21;
-             --          mult2_reg1 <= a22;
-             --          mult3_reg1 <= a23;
-             --          mult4_reg1 <= a24;
-             --          mult1_reg2 <= x1;
-             --          mult2_reg2 <= x2;
-             --          mult3_reg2 <= x3;
-             --          mult4_reg2 <= x4;
-             --          state <= stPROC_ROW3;
-             --      when stPROC_ROW3 => 
-             --          mult1_reg1 <= a31;
-             --          mult2_reg1 <= a32;
-             --          mult3_reg1 <= a33;
-             --          mult4_reg1 <= a34;
-             --          mult1_reg2 <= x1;
-             --          mult2_reg2 <= x2;
-             --          mult3_reg2 <= x3;
-             --          mult4_reg2 <= x4;
-             --          state <= stPROC_ROW4;
-             --      when stPROC_ROW4 => 
-             --          mult1_reg1 <= a41;
-             --          mult2_reg1 <= a42;
-             --          mult3_reg1 <= a43;
-             --          mult4_reg1 <= a44;
-             --          mult1_reg2 <= x1;
-             --          mult2_reg2 <= x2;
-             --          mult3_reg2 <= x3;
-             --          mult4_reg2 <= x4;
-			 --  			   state<= stTEMP1;
-             --      when stTEMP1 =>
-             --          state <= stTEMP2;
-             --      when stTEMP2 =>
-             --          state <= stTEMP3;
-             --      when stTEMP3 =>
-             --          state <= stTEMP4;
-             --      when stTEMP4 =>
-             --          state <= stTEMP5;
-			 --  		  when stTEMP5 => 
-			 --  				state <= stTEMP6;
-             --      when stTEMP6 =>
-	
-			 --  				
-             --          state <= stRESULT_OUT1;
-             --      when stRESULT_OUT1 => 
-             --          b1 <= add3_out;
-             --          state <= stRESULT_OUT2;
-             --      when stRESULT_OUT2 => 
-             --          b2 <= add3_out;
-             --          state <= stRESULT_OUT3;
-             --      when stRESULT_OUT3 => 
-             --          b3 <= add3_out;
-             --          state <= stRESULT_OUT4;
-             --      when stRESULT_OUT4 => 
-             --          b4 <= add3_out;
-             --          state <= stFINISH;
+	    			    --b1 <= add3_out;
+                        state <=  stPROC_ROW2;-- stFINISH
+                    when stPROC_ROW2 => 
+                        mult1_reg1 <= a21;
+                        mult2_reg1 <= a22;
+                        mult3_reg1 <= a23;
+                        mult4_reg1 <= a24;
+                        mult1_reg2 <= x1;
+                        mult2_reg2 <= x2;
+                        mult3_reg2 <= x3;
+                        mult4_reg2 <= x4;
+                        state <= stPROC_ROW3;
+                    when stPROC_ROW3 => 
+                        mult1_reg1 <= a31;
+                        mult2_reg1 <= a32;
+                        mult3_reg1 <= a33;
+                        mult4_reg1 <= a34;
+                        mult1_reg2 <= x1;
+                        mult2_reg2 <= x2;
+                        mult3_reg2 <= x3;
+                        mult4_reg2 <= x4;
+                        state <= stPROC_ROW4;
+                    when stPROC_ROW4 => 
+                        mult1_reg1 <= a41;
+                        mult2_reg1 <= a42;
+                        mult3_reg1 <= a43;
+                        mult4_reg1 <= a44;
+                        mult1_reg2 <= x1;
+                        mult2_reg2 <= x2;
+                        mult3_reg2 <= x3;
+                        mult4_reg2 <= x4;
+								state<= stTEMP1;
+                   --when stTEMP1 => state <= stTEMP2;
+                   --when stTEMP2 => state <= stTEMP3;
+                   --when stTEMP3 => state <= stTEMP4;
+                   --when stTEMP4 => state <= stTEMP5;
+                   --when stTEMP5 => state <= stTEMP6;
+                   when stTEMP1 => state <= stTEMP7;
+                   when stTEMP7 => state <= stTEMP8;
+                   when stTEMP8 => state <= stTEMP9;
+                   when stTEMP9 => state <= stTEMP10;
+                   when stTEMP10 => state <= stTEMP11;
+
+                   when stTEMP11 => state <= stTEMP12;
+                   when stTEMP12 => state <= stTEMP13;
+                   when stTEMP13 => state <= stTEMP14;
+                   when stTEMP14 => state <= stTEMP15;
+                   when stTEMP15 => state <= stTEMP16;
+                   when stTEMP16 => state <= stTEMP17; 
+
+                   when stTEMP17 => state <= stTEMP18; b1<= add3_out;
+                   when stTEMP18 => state <= stTEMP19; b2<= add3_out;
+                   when stTEMP19 => state <= stTEMP20; b3<= add3_out;
+                   when stTEMP20 => state <= stTEMP21; b4<= add3_out;
+            --      when stTEMP19 => state <= stTEMP20; --b1<= add3_out;
+            --      when stTEMP20 => state <= stTEMP21;
+
+                  --5--
+                   when stTEMP21 => state <= stFINISH;
+
+                  --when stTEMP43 =>            --state <= stTEMP8;
+                  --    state <= stRESULT_OUT1;
+                  --when stRESULT_OUT1 => 
+                  --   -- b1 <= add3_out;
+                  --    state <= stRESULT_OUT2;
+                  --when stRESULT_OUT2 => 
+                  --   -- b2 <= add3_out;
+                  --    state <= stRESULT_OUT3;
+                  --when stRESULT_OUT3 => 
+                  --    --b3 <= add3_out;
+                  --    state <= stRESULT_OUT4;
+                  --when stRESULT_OUT4 => 
+                  --    --b4 <= add3_out;
+                  --    state <= stFINISH;
                     when stFINISH => 
-								--b1 <= add3_out;
+				--	    b1 <= add3_out;
                         control_and_status_reg <= x"00000000";
                         state <= stIDLE;
                     when stIDLE => 
                         state <= stIDLE;
-								when others => null;
+				    when others => null;
                 end case;
             end if;
         end if;

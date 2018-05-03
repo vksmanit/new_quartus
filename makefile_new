@@ -1,0 +1,60 @@
+##########################################
+MY_WORK_DIR = $(PWD)
+compile_project:
+	cd  $(MY_WORK_DIR)
+	quartus_map --read_settings_files=on --write_settings_files=off platform01 -c platform01
+	quartus_fit --read_settings_files=on --write_settings_files=off platform01 -c platform01
+	quartus_asm --read_settings_files=on --write_settings_files=off platform01 -c platform01
+	quartus_sta platform01 -c platform01
+	quartus_eda --read_settings_files=on --write_settings_files=off platform01 -c platform01
+
+detect-hardware:
+	quartus_pgm -l
+
+program-hardware:
+#	cd $(MY_WORK_DIR)/output_files/
+	quartus_pgm -m JTAG -o "p;$(MY_WORK_DIR)/output_files/platform01.sof"
+
+run_hello_world_small:
+	cd $(MY_WORK_DIR)
+	make download-elf
+
+edit-top-vhd-file : 
+	vim $(MY_WORK_DIR)/design01/synthesis/submodules/top.vhd
+
+edit-hello-world-small-file:
+	vim $(MY_WORK_DIR)/software/my_software/hello_world_small.c
+
+
+help:
+	@echo ""
+	@echo "####################################################"
+	@echo "# This is a makefile for compiling quartus project #"
+	@echo "# and detecting hardware and programming hardware  #"
+	@echo "#                                                  #"
+	@echo "# This file is also used for editing top.vhd and   #"
+	@echo "# hello_world_small.c for this project.            #"
+	@echo "####################################################"
+	@echo ""
+	@echo "1. To compile the project : "
+	@echo "   run : make -f makefile_new compile_project"
+	@echo ""
+	@echo "2. To edit the top.vhd :"
+	@echo "   run : make -f makefile_new edit-top-vhd-file"
+	@echo ""
+	@echo "3. To edit the hello_world_small.c :"
+	@echo "   run : make -f makefile_new edit-hello-world-small-file"
+	@echo ""
+	@echo "4. To detect hardware attached :"
+	@echo "   run: make -f makefile_new detect-hardware"
+	@echo ""
+	@echo "5. To program hardware attached :"
+	@echo "   run: make -f makefile_new program-hardware" 
+	@echo ""
+	@echo "6. To run the hello_world_small.c :"
+	@echo "   run: make -f makefile_new run_hello_world_small"
+	@echo ""
+
+
+
+

@@ -2,8 +2,8 @@
 <sch:Settings xmlns:sch="http://www.altera.com/embeddedsw/bsp/schema">
         <BspType>hal</BspType>
         <BspVersion>default</BspVersion>
-        <BspGeneratedTimeStamp>1 May, 2018 9:27:56 PM</BspGeneratedTimeStamp>
-        <BspGeneratedUnixTimeStamp>1525190276920</BspGeneratedUnixTimeStamp>
+        <BspGeneratedTimeStamp>3 May, 2018 11:37:42 PM</BspGeneratedTimeStamp>
+        <BspGeneratedUnixTimeStamp>1525370862987</BspGeneratedUnixTimeStamp>
         <BspGeneratedLocation>/home/vipinsoni/Desktop/MTP2/new_quartus/test_mat_mul_01/software/my_software_bsp</BspGeneratedLocation>
         <BspSettingsFile>./settings.bsp</BspSettingsFile>
         <SopcDesignFile>../../design01.sopcinfo</SopcDesignFile>
