@@ -1,0 +1,12 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {/home/vipinsoni/MTP/test_mat_mul_component_01/headers.vhd}
+vcom -93 -work work {/home/vipinsoni/MTP/test_mat_mul_component_01/fp_add.vhd}
+vcom -93 -work work {/home/vipinsoni/MTP/test_mat_mul_component_01/fp_mult.vhd}
+vcom -93 -work work {/home/vipinsoni/MTP/test_mat_mul_component_01/top.vhd}
+
